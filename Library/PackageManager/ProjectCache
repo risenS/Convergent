@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638375197479505165
-    m_Hash: 3829306517
+      ticks: 638375905561065161
+    m_Hash: 2518432380
   m_LockFileStatus:
     m_FilePath: C:/GameJam/Discovery and Parallel Worlds/New Unity Project/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638375197479725002
-    m_Hash: 3647782871
+      ticks: 638375905561065161
+    m_Hash: 1755757719
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
